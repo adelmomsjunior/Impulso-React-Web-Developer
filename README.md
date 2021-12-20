@@ -1,4 +1,4 @@
-## Bootcamp <a href="https://www.dio.me/sign-in"> DIO </a> - Impulso-React-Web-Developer
+## Bootcamp <a href="https://www.dio.me/sign-in"> DIO </a> - Impulso React Web Developer
 
 #### Desafios e atividades realizados durante o bootcamp.
 
